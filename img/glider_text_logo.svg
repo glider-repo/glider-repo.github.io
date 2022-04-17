@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98.654mm" height="24.436mm" version="1.1" viewBox="0 0 98.654 24.436" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-4.5755 -113.79)">
+  <g transform="translate(-543.76 106)" fill="#dcbf85">
+   <g transform="translate(148.59 -189.77)">
+    <path d="m417.53 217.11v-4.372h5.059v9.2591h-22.847v-24.436h22.847v4.8871h-15.517v14.661z"/>
+    <rect x="411.6" y="206.81" width="5.9313" height="5.9313"/>
+    <g transform="translate(-21.368 139.15)" aria-label="Glider">
+     <path d="m453.79 58.417v24.436h-7.3307v-24.436z"/>
+     <path d="m456.23 82.755v-17.105h7.3307v17.105zm0-19.451v-4.8871h7.3307v4.8871z"/>
+     <path d="m473.34 68.191v9.7743h2.4436v-9.7743zm9.7743-9.7743v24.436h-17.105v-19.549h9.7743v-4.8871z"/>
+     <path d="m495.33 70.635v-2.4436h-2.4436v2.4436zm-9.7743 12.218v-19.549h17.105v12.218h-9.7742v2.4436h9.7742v4.8871z"/>
+     <path d="m519.77 63.304v4.8871h-7.3307v14.661h-7.3307v-19.549z"/>
+    </g>
+   </g>
+   <g transform="translate(-5.8398e-6 -50.483)">
+    <path d="m566.12 67.524 3e-5 5.9313h5.059l3.2e-4 -5.9313zm0.19699 0.20403h4.6687v5.5352h-4.6687z" color="#000000" fill="#dcbf85" style="-inkscape-stroke:none"/>
+   </g>
+  </g>
+ </g>
+</svg>
